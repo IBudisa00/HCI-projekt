@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Friends",
+        "category": "Comedy, Romance",
+        "info":"Ross Geller, Rachel Green, Monica Geller, Joey Tribbiani, Chandler Bing, and Phoebe Buffay are six twenty-somethings living in New York City. Over the course of 10 years and seasons, these friends go through life lessons, family, love, drama, friendship, and comedy.",
+        "rate": 93,
+        "picturePath":"/friends.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dark",
+        "category": "Crime, Drama, Mystery",
+        "info":"The first German production from the world's leading Internet TV Network is set in a German town in present day where the disappearance of two young children exposes the double lives and fractured relationships among four families. In ten hour-long episodes, the story takes on a surprising twist that ties back to the same town in 1986.",
+        "rate": 90,
+        "picturePath":"/dark.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Stranger Things",
+        "category": "Drama, Fantasy, Horror",
+        "info":"In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child, which begins to tear at the fabric of an otherwise peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that there's more going on than meets the eye.",
+        "rate": 85,
+        "picturePath":"/strangerThings.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Game of Thrones",
+        "category": "Action, Adventure, Drama",
+        "info":"In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea.",
+        "rate": 94,
+        "picturePath":"/got.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chernobyl",
+        "category": "Drama, History, Thriller",
+        "info":"In April 1986, a huge explosion erupted at the Chernobyl nuclear power station in northern Ukraine. This series follows the stories of the men and women, who tried to contain the disaster, as well as those who gave their lives preventing a subsequent and worse one.",
+        "rate": 89,
+        "picturePath":"/chernobyl.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Breaking Bad",
+        "category": "Crime, Drama, Thriller",
+        "info":"When chemistry teacher Walter White is diagnosed with Stage III cancer and given only two years to live, he decides he has nothing to lose. He lives with his teenage son, who has cerebral palsy, and his wife, in New Mexico. Determined to ensure that his family will have a secure future, Walt embarks on a career of drugs and crime. He proves to be remarkably proficient in this new world as he begins manufacturing and selling methamphetamine with one of his former students.",
+        "rate": 87,
+        "picturePath":"/breakingBad.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Desperate Housewives",
+        "category": "Comedy, Drama, Mystery",
+        "info":"The 'normal' suburban life for a group of close-knit housewives takes a dark turn when one of their closest friends mysteriously commits suicide. Now while trying to deal with their own hectic problems and romantic lives, each year brings on a new mystery and more dark and twisted events to come. Life behind closed doors is about to be revealed as suburban life takes a funny and dark turn.",
+        "rate": 81,
+        "picturePath":"/desperateHousewives.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sex and the City",
+        "category": "Comedy, Drama, Romance",
+        "info":"Four female New Yorkers gossip about their sex lives (or lack thereof) and find new ways to deal with being a woman in the late 1990s.",
+        "rate": 77,
+        "picturePath":"/sexAndTheCity.jpg"
+    }
+]
